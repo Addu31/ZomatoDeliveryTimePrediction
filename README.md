@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 ## End To End ML Project
 
 ### created a environment
 ```
-conda create -p venv python==3.8
+conda create -p venv python==3.12.5
 
 conda activate venv/
 ```
@@ -12,3 +13,6 @@ pip install -r requirements.txt
 ```
 ### Live URL
 https://zomatodeliverytimeprediction.onrender.com
+=======
+# ZomatoDeliveryTimePrediction
+>>>>>>> origin/main
